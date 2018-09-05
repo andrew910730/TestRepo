@@ -20,3 +20,12 @@ public void function3() {
 public void function5() {
     some lines
 }
+
+public void function6() {
+    
+    
+}
+
+public void function7() {
+    add fun7
+}
