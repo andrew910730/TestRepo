@@ -20,3 +20,8 @@ public void function3() {
 public void function5() {
     some lines
 }
+
+public void function6() {
+    
+    
+}
