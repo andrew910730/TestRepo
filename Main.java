@@ -1,4 +1,3 @@
-
 public class Main {
     public static void main(String args[]) {
         try {
@@ -7,5 +6,7 @@ public class Main {
             e.printStackTrace();
         }
         System.out.println("An output");
+
+        System.out.println("hello world");
     }
 }
