@@ -7,5 +7,7 @@ public class Main {
             e.printStackTrace();
         }
         System.out.println("An output");
+        
+        // a comment
     }
 }
