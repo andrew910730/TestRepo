@@ -7,6 +7,7 @@ public class Main {
         }
         System.out.println("An output");
 
+        // a comment
         System.out.println("hello world");
     }
 }
